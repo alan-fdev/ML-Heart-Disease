@@ -66,7 +66,7 @@ Struktur proyek dibuat modular agar mudah digunakan, dikembangkan, dan di-deploy
 
 ### 1. Clone Repository
 ```bash
-git clone <repo-url>
+git clone https://github.com/BlackBox-Ops/ML-Heart-Disease.git
 cd heart-disease-prediction
 ```
 
@@ -90,14 +90,6 @@ Atau gunakan Uvicorn untuk API documentation:
 ```bash
 uvicorn src/api-doc:app --reload
 ```
-
-### 5. Jalankan Pipeline Lengkap
-Gunakan script otomatis:
-```bash
-./run_model.sh
-```
-
----
 
 ## 🐳 Jalankan dengan Docker Compose (Rekomendasi)
 
