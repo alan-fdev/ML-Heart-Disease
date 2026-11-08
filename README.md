@@ -66,8 +66,8 @@ Struktur proyek dibuat modular agar mudah digunakan, dikembangkan, dan di-deploy
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/BlackBox-Ops/ML-Heart-Disease.git
-cd heart-disease-prediction
+git clone https://github.com/alan-fdev/ML-Heart-Disease.git
+cd ML-Heart-Disease
 ```
 
 ### 2. Install Dependencies (Opsional, jika tidak pakai Docker)
